@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adasdevman
 - 👀 I’m interested in Flutter App and react Native
-- 🌱 I’m currently learning Python
+- 🌱 I’m Python expert
 - 💞️ I’m looking to collaborate on flutter app - backend laravel doctor project
 - 📫 How to reach me franckadas@worldpos.work
 
